@@ -4,4 +4,7 @@
 Problem Statement - Optimized Warehouse Management of Perishable Goods for a Food Delivery Company
 
 
-Team Members - Vaibhav Chaudhary , Saloni Mittal
+Team Name - Code 2k20
+
+
+Team Members - Saloni Mittal, Vaibhav Chaudhary
